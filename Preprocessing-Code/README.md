@@ -1,3 +1,3 @@
-Import_Testing_2013.ipynb - outlines each feature chosen from data components, renaming columns
-Extract_Columns_All_Years.ipynb - imports, extracts, & renames desired columns for 2005-2016 data, merges all years
-Finalize_data.ipynb - converts '1 = yes' '2 = no' to binary, marks all 'don't know' and 'refused' responses to NA, exports data for Tableau
+- Import_Testing_2013.ipynb - outlines each feature chosen from data components, renaming columns
+- Extract_Columns_All_Years.ipynb - imports, extracts, & renames desired columns for 2005-2016 data, merges all years
+- Finalize_data.ipynb - converts '1 = yes' '2 = no' to binary, marks all 'don't know' and 'refused' responses to NA, exports data for Tableau
